@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: ""
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Version Control and Collaboration with Git and GitHub"
 
 # Contact email address.
 email: training@esciencecenter.nl
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: escience-academy/2017-09-06-git-github
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -37,6 +37,7 @@ workshop_site: "https://swcarpentry.github.io/workshop-template"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
 nlesc_site: "https://esciencecenter.nl"
+c_of_c: "https://github.com/NLeSC/code-of-conduct/blob/master/README.md"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
